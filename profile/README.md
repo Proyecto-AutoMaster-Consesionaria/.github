@@ -15,11 +15,11 @@ Este proyecto está dividido en los siguientes módulos dentro de nuestra organi
 
 | Repositorio | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **`frontend-web`** | Interfaz de usuario y experiencia visual del sistema. | `[Ej: HTML, CSS, React / Angular]` |
-| **`backend-api`** | Lógica de negocio, autenticación y conexión a datos. | `[Ej: Node.js, Python, Java / C#]` |
-| **`database`** | Scripts de creación de tablas, consultas y datos de prueba. | `[Ej: MySQL, PostgreSQL, MongoDB]` |
+| **`frontend-web`** | Interfaz de usuario y experiencia visual del sistema. | `React` |
+| **`backend-api`** | Lógica de negocio, autenticación y conexión a datos. | `Java` |
+| **`database`** | Scripts de creación de tablas, consultas y datos de prueba. | `MySQL,` |
 | **`docker-deploy`** | Orquestación de contenedores (`docker-compose`) para despliegue local y producción. | `Docker, Docker Compose` |
-| **`documentacion`** | Diagramas UML, manual de usuario y documentación técnica. | `Markdown / PDF` |
+| **`documentacion`** | Diagramas UML, manual de usuario y documentación técnica. | `Markdown` |
 
 
 ### 🐳 Arquitectura y Despliegue con Docker
