@@ -1,6 +1,6 @@
 # 🚗 Concesionaria de Vehículos AutoMaster
 
-¡Bienvenidos al repositorio oficial de **AutoMaster**! Este proyecto fue desarrollado con el objetivo de gestionar de manera integral las operaciones de un concesionario automotriz.
+¡Bienvenido al repositorio oficial de **AutoMaster**! Este proyecto fue desarrollado con el objetivo de gestionar de manera integral las operaciones de un concesionario automotriz.
 
 ### ✨ Funciones Principales del Sistema
 
